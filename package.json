@@ -1,0 +1,23 @@
+{
+  "name": "saas",
+  "version": "1.0.0",
+  "description": "SaaS architecture by Sundeep Valluri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vallurisundeep/saas.git"
+  },
+  "keywords": [
+    "Saas",
+    "Architecture"
+  ],
+  "author": "Sundeep Valluri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vallurisundeep/saas/issues"
+  },
+  "homepage": "https://github.com/vallurisundeep/saas#readme"
+}
